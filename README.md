@@ -1,3 +1,3 @@
 # tile_z
 
-URL: `https://github.com/tohka/tile_z/raw/master/{z}.png`
+URL: `https://raw.githubusercontent.com/tohka/tile_z/master/{z}.png`
